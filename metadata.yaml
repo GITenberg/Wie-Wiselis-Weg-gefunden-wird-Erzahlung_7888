@@ -1,0 +1,30 @@
+_repo: Wie-Wiselis-Weg-gefunden-wird-Erzahlung_7888
+creator:
+  author:
+    agent_name: Spyri, Johanna
+    aliases:
+    - Heusser, Johanna Louise
+    - Spyri, Johanna Heusser
+    birthdate: 1827
+    deathdate: 1901
+    gutenberg_agent_id: '2491'
+    url: http://www.gutenberg.org/2009/agents/2491
+    wikipedia: http://en.wikipedia.org/wiki/Johanna_Spyri
+description: ''
+gutenberg_bookshelf:
+- DE Kinderbuch
+- Children's Literature
+gutenberg_issued: '2005-04-01'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '7888'
+language: de
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Switzerland -- Fiction'
+- !lcsh 'Mountain life -- Juvenile fiction'
+- !lcc 'PT'
+title: Wie Wiselis Weg gefunden wird Erzählung
+url: http://www.gutenberg.org/ebooks/7888
