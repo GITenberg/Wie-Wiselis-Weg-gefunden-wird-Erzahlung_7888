@@ -1,4 +1,8 @@
 _repo: Wie-Wiselis-Weg-gefunden-wird-Erzahlung_7888
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
 creator:
   author:
     agent_name: Spyri, Johanna
@@ -11,6 +15,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/2491
     wikipedia: http://en.wikipedia.org/wiki/Johanna_Spyri
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/7888#Wie-Wiselis-Weg-gefunden-wird-Erzahlung
 gutenberg_bookshelf:
 - DE Kinderbuch
 - Children's Literature
